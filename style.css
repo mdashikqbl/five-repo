@@ -3,6 +3,7 @@ h1{
     background-color:black;
     border: 25px;
     display: inline-block;
+    padding: auto;
 }
     #power{
         height: 20px;
